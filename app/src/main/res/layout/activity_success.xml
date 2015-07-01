@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="#2b2e30"
+    tools:context="wekinator.epsi.com.wekinator.SuccessActivity">
+
+    <TextView
+        android:text="@string/question"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/question"
+        android:layout_marginBottom="20dp"
+        android:layout_above="@+id/actorFound"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="@string/acteur_trouve"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/actorFound" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="@string/oui"
+        android:id="@+id/buttonYes"
+        android:background="#27ae60"
+        android:onClick="goToMenu"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/actorFound"
+        android:layout_toLeftOf="@+id/actorFound"
+        android:layout_toStartOf="@+id/actorFound"
+        android:padding="5dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:background="#c0392b"
+        android:text="@string/non"
+        android:id="@+id/buttonNo"
+        android:onClick="goToAdd"
+        android:layout_alignTop="@+id/buttonYes"
+        android:layout_toRightOf="@+id/actorFound"
+        android:layout_toEndOf="@+id/actorFound"
+        android:padding="5dp"/>
+
+</RelativeLayout>

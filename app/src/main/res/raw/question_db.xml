@@ -1,0 +1,86 @@
+<QuestionListe>
+    <Question>
+        <Libelle>Est-il britannique ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-il Américain ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il des freres ou soeurs ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il la peau blanche ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est il ou a-t-il été marié ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-ce un homme ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-il très grand ? (+1.80m)</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Fait-il de la politique ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il un enfant ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il joué dans un film de fiction ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il joué dans un film d'action ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il joué dans un film humoristique ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il joué dans un film de romance ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il les yeux bleus ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il les yeux marron ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il ou a-t-il eu les cheveux blond ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il ou a-t-il eu les cheveux chatain ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il ou a-t-il eu les cheveux brun ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il ou a-t-il eu les cheveux roux ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-il vivant ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il plus de 50 ans ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il moins de 20 ans ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-il humoriste ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-il français ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Porte t-il des lunettes de vue ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-il chanteur ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>Est-il réalisateur ?</Libelle>
+    </Question>
+    <Question>
+        <Libelle>A-t-il déjà eu un oscar ?</Libelle>
+    </Question>
+</QuestionListe>

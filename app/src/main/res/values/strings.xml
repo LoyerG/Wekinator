@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wekinator</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_credit">CreditActivity</string>
+    <string name="title_activity_game">gameActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="acteur_trouve">Acteur trouvé: </string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="question">Est-ce l\'acteur auquel vous pensiez ?</string>
+    <string name="title_activity_add">AddActivity</string>
+
+</resources>
